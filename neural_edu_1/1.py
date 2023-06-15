@@ -1,5 +1,7 @@
 # https://www.youtube.com/watch?v=VqChpNNYZ8Q&list=PLA0M1Bcd0w8yv0XGiF1wjerjSZVSrYbjh&index=2
-# TODO Нейронная сеть прямого распространения
+#
+# Нейронная сеть прямого распространения
+#
 # векторное и матричное умножение посмотреть
 
 import numpy as np
